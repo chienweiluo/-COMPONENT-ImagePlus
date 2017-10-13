@@ -1,4 +1,6 @@
-# matrialvue
+# matrialvue(WIP)
+
+<img src="https://chienweiluo.online/CommonImage/vuematerial.gif">
 
 ### using
 
@@ -23,7 +25,7 @@ VueMaterial
 
 ### Core
 
-vueMaterial組件使用
+vueMaterial組件(不知道為什麼腦底對RWD的印象就是MaterialDesign這種XD)
 
 fetch unsplash資料
 
