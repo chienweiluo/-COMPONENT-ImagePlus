@@ -1,6 +1,34 @@
 # matrialvue
 
-> A Vue.js project
+### using
+
+GET Unsplash.it(fetch)
+
+VueMaterial
+
+`
+main.js...
+  import VueMaterial from 'vue-material'
+  import 'vue-material/dist/vue-material.css'
+
+  Vue.use(VueMaterial)
+
+index.html
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
+  <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
+`
+
+
+
+
+### Core
+
+fetch資料
+
+Vue渲染
+
+綁DOM事件增刪卡片
+
 
 ## Build Setup
 
@@ -14,5 +42,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
