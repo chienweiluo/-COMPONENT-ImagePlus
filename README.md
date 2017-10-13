@@ -1,7 +1,7 @@
 # matrialvue(WIP)
 
 
-![演示gif](https://chienweiluo.online/CommonImage/vuematerial.gif)
+演示gif:https://chienweiluo.online/CommonImage/vuematerial.gif
 
 ### using
 
