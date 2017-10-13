@@ -6,28 +6,30 @@ GET Unsplash.it(fetch)
 
 VueMaterial
 
-`
-main.js...
-  import VueMaterial from 'vue-material'
-  import 'vue-material/dist/vue-material.css'
+```
+  main.js...
+    import VueMaterial from 'vue-material'
+    import 'vue-material/dist/vue-material.css'
 
-  Vue.use(VueMaterial)
+   Vue.use(VueMaterial)
 
-index.html
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
-  <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
-`
+  index.html
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
+    <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
+```
 
 
 
 
 ### Core
 
-fetch資料
+vueMaterial組件使用
 
-Vue渲染
+fetch unsplash資料
 
-綁DOM事件增刪卡片
+v-for渲染
+
+綁定DOM事件增刪卡片
 
 
 ## Build Setup
