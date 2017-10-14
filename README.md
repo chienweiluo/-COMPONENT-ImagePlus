@@ -6,9 +6,9 @@
 
 ### using
 
-GET Unsplash.it(fetch)
+DATA:  [Lorem Picsum](https://picsum.photos/) (fetch api)
 
-VueMaterial
+Style: [VueMaterial](http://vuematerial.io/#/)
 
 ```
   main.js...
@@ -29,7 +29,7 @@ VueMaterial
 
 vueMaterial組件(不知道為什麼腦底對RWD的印象就是MaterialDesign這種XD)
 
-fetch unsplash資料
+fetch Lorem Picsum資料
 
 v-for渲染
 
